@@ -1,0 +1,24 @@
+Personal Mini-Toolkit Plan
+==========================
+
+Tools Included:
+1. Quick Calculator: Performs basic arithmetic (addition, subtraction, multiplication, division) on two numbers.
+2. Interactive To-Do List: Allows users to add, view, and remove tasks dynamically.
+3. Number Guessing Game: Challenges the user to guess a secret number between 1 and 20 with feedback.
+
+Exact Menu Text:
+----------------
+====================================
+     PERSONAL MINI-TOOLKIT
+====================================
+1. Quick Calculator
+2. Interactive To-Do List
+3. Number Guessing Game
+4. Quit
+------------------------------------
+
+Concepts Used:
+- Quick Calculator: Conditionals (if/elif/else), f-strings, float conversions.
+- Interactive To-Do List: Lists (append, remove), loops (while/for), conditionals, f-strings.
+- Number Guessing Game: Loops (while), conditionals (if/elif/else), random module, f-strings.
+- Main Menu: While loop, conditionals, input handling.
